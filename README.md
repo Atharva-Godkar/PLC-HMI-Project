@@ -42,3 +42,9 @@ IMA-PG India Private Limited is an unlisted private company incorporated on 23rd
 
 ![Whats-App-Image-2023-12-20-at-9-59-27-AM.jpg](https://i.postimg.cc/FHHp8q5Y/Whats-App-Image-2023-12-20-at-9-59-27-AM.jpg)
 ![Screenshot-2467.png](https://i.postimg.cc/KzvHNzGH/Screenshot-2467.png)
+
+## Team Members
+- [@godkar](https://github.com/Atharva-Godkar)
+- [@yash]()
+- [@aayare](https://github.com/adityasayare88)
+- [@mayur]()
